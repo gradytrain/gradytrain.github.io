@@ -1,5 +1,3 @@
-# Josh Grady's GitHub Page
-
 ### Hi, you most likely got rerouted to my GitHub page because my home server is down.
 
 ### I am saving energy and resources by turning my self hosted web server off at night. The server will be back online at 8 AM Eastern!
